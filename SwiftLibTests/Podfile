@@ -1,3 +1,0 @@
-use_frameworks!
-pod 'TLKeyboardUtil-Swift', '~> 0.0.1'
-pod 'Kingfisher', '~> 2.1.0'
