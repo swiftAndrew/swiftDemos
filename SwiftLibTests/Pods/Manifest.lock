@@ -1,0 +1,13 @@
+PODS:
+  - Kingfisher (2.1.0)
+  - TLKeyboardUtil-Swift (0.0.1)
+
+DEPENDENCIES:
+  - Kingfisher (~> 2.1.0)
+  - TLKeyboardUtil-Swift (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  Kingfisher: 3ac09acad75a25ab22f6d7cef3de10d61dd4792d
+  TLKeyboardUtil-Swift: dc1a4f0920b5bd2670dfe45bea6b696537496758
+
+COCOAPODS: 0.39.0
